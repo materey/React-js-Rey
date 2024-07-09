@@ -1,0 +1,11 @@
+
+.widget{
+    display: flex;
+    justify-content: space-around;
+}
+
+.widget p {
+    font-size: 30px;
+}
+
+
