@@ -1,7 +1,8 @@
 
 .widget{
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-end;
+    text-decoration: none;
 }
 
 .widget p {
